@@ -1,0 +1,40 @@
+{
+  "title": "Super Agent Hackathon Badge",
+  "description": "This badge commemorates participation in the Super Agent Hackathon at ETH Denver 2025.",
+  "createdAt": "1740585600",
+  "image": "https://ipfs.io/ipfs/bafybeigycha3a7gubmeoocuk67nfy5g76jqhwttokacrxpx5q2mw5xxaoa",
+  "imageHash": "0x4be402a106bc1b5c596e9ea7efd8e2b9def4562ca7909fbef6b17488b33659aa",
+  "mediaUrl": "https://ipfs.io/ipfs/bafybeigycha3a7gubmeoocuk67nfy5g76jqhwttokacrxpx5q2mw5xxaoa",
+  "mediaHash": "0x4be402a106bc1b5c596e9ea7efd8e2b9def4562ca7909fbef6b17488b33659aa",
+  "mediaType": "image/png",
+  "creators": [
+    {
+      "name": "Story Foundation",
+      "address": "0x67ee74EE04A0E6d14Ca6C27428B27F3EFd5CD084",
+      "description": "The World's IP Blockchain",
+      "contributionPercent": 100,
+      "socialMedia": [
+        {
+          "platform": "Twitter",
+          "url": "https://twitter.com/storyprotocol"
+        },
+        {
+          "platform": "Telegram",
+          "url": "https://t.me/StoryAnnouncements"
+        },
+        {
+          "platform": "Website",
+          "url": "https://story.foundation"
+        },
+        {
+          "platform": "Discord",
+          "url": "https://discord.gg/storyprotocol"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://youtube.com/@storyFDN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Super Agent Hackathon Badge",
+  "description": "This badge commemorates participation in the Super Agent Hackathon at ETH Denver 2025.",
+  "image": "https://ipfs.io/ipfs/bafybeigycha3a7gubmeoocuk67nfy5g76jqhwttokacrxpx5q2mw5xxaoa",
+  "attributes": [
+    {
+      "trait_type": "Secret Identity",
+      "value": "Super Agent"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Super Rare"
+    },
+    {
+      "trait_type": "AI Whisperer Level",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Coffee Consumed",
+      "value": "Infinite"
+    },
+    {
+      "trait_type": "Debug Skills",
+      "value": "Can find bugs in working code"
+    },
+    {
+      "trait_type": "Prompt Engineering",
+      "value": "Jedi Master"
+    },
+    {
+      "trait_type": "Sleep Status",
+      "value": "What's Sleep?"
+    },
+    {
+      "trait_type": "Hackathon Power",
+      "value": "Time Bender"
+    }
+  ]
+}
