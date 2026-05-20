@@ -43,5 +43,8 @@
         "@story-protocol/protocol-periphery": "github:storyprotocol/protocol-periphery-v1#v1.3.1",
         "erc6551": "^0.3.1",
         "solady": "^0.0.281"
+    },
+    "resolutions": {
+        "minimatch": "5.1.8"
     }
 }

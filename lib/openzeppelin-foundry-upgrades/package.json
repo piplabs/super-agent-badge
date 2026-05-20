@@ -31,5 +31,8 @@
     "solhint": "^3.3.6",
     "solhint-plugin-openzeppelin": "file:scripts/solhint-custom",
     "solidity-docgen": "^0.6.0-beta.36"
+  },
+  "resolutions": {
+    "minimatch": "5.1.8"
   }
 }
